@@ -1,0 +1,23 @@
+
+section{
+    display: flex;
+}
+
+aside{
+    background-color: rgb(10, 10, 10);
+    padding: 30px;
+    width: 70%;
+    height: 750px;
+}
+article{
+    background-color: rgb(103, 100, 100);
+    color: white;
+    width: 30%;
+    line-height: 7;
+    padding: 10px;
+}
+p{
+    display: none;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
